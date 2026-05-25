@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👟 SwooshIQ — Nike Sales Intelligence Dashboard
+# 👟  Nike Sales Intelligence Dashboard
 
 ### *Turning 3 years of Nike sales data into actionable business insights*
 
@@ -32,19 +32,19 @@
 
 ---
 
-## 🏷️ Why SwooshIQ?
+## 🏷️ Why  Nike Sales Intelligence Dashboard?
 
-> **Swoosh** — Nike's iconic logo & brand identity  
-> **IQ** — Intelligence, insight, analytical depth
+> **Nike Sales** — Nike's iconic logo & brand identity  
+> **Intelligence Dashboard** — Intelligence, insight, analytical depth
 
-*SwooshIQ* captures what this project does: applies data intelligence to one of the world's most iconic brands to surface insights that go far beyond surface-level numbers.
+*Nike Sales Intelligence Dashboard* captures what this project does: applies data intelligence to one of the world's most iconic brands to surface insights that go far beyond surface-level numbers.
 
 ---
 
 ## 🗂️ Project Structure
 
 ```
-SwooshIQ/
+Nike Sales Intelligence Dashboard/
 │
 ├── 📁 data/
 │   └── nike_sales_analysis.csv          # Raw dataset — 619 rows × 13 columns
